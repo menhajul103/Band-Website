@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo-hading{
+    margin: 50px 0;
+}
+.logo-hading .container {
+    text-align: center;
+}
+.logo-hading .container  .logo img{
+    width: 40%;
+}
+
+/* coustom-navbar */
+.active {
+    background-color: rgb(215, 19, 78);
+}
+
+.coustom-navbar .container .menu .navbar ul li a{
+    text-transform: uppercase;
+    padding: 10px;
+}
